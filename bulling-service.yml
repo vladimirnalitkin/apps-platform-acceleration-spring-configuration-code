@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  cloud:
+    services:
+      registrationMethod: route
+
+security:
+  basic:
+    enabled: false
