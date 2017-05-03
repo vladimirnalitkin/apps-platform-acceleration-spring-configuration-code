@@ -5,7 +5,7 @@ spring:
 
 security:
   basic:
-    enabled: false
+    enabled: true
     user:
       name: adm
       password: test
