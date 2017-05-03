@@ -3,6 +3,8 @@ spring:
     services:
       registrationMethod: route
 
+queueName: cloud-bus
+
 security:
   basic:
     enabled: true
